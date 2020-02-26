@@ -1,0 +1,23 @@
+
+<h1>{{title}}</h1>
+<h3>Employee Information</h3>
+<hr />
+<form [formGroup]="employeeCreateForm" (ngSubmit)="save()" #formDir="ngForm" >
+  <div class="form-group row">
+    <label class=" control-label col-md-12">Name</label>
+    <div class="col-md-4">
+      <input class="form-control" type="text" formControlName="name">
+    </div>
+  </div>
+
+  <div class="form-group">
+    <button type="submit" class="btn btn-default">Save</button>
+  </div>
+
+</form>
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+<!-- <table class="table table-condensed">
+    <thead>
+      <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Email</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>John</td>
+        <td>Doe</td>
+        <td>john@example.com</td>
+      </tr>
+      <tr>
+        <td>Mary</td>
+        <td>Moe</td>
+        <td>mary@example.com</td>
+      </tr>
+      <tr>
+        <td>July</td>
+        <td>Dooley</td>
+        <td>july@example.com</td>
+      </tr>
+    </tbody>
+  </table> -->
+  <button type="submit" routerLink="/employee-create" class="btn btn-primary">Create New</button>
+  <table class='table table-condensed' >
+    <thead>
+      <tr>
+        <th *ngIf="false">Id</th>
+        <th>Name</th>
+       
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let employee of employeeList">
+        <td *ngIf="false">{{ employee.id }}</td>
+        <td>{{ employee.name }}</td>
+        <td>
+        <td>
+          <!-- <a [routerLink]="['/book-edit/', book.bookId]">Edit</a>
+          <a [routerLink]="['/book-delete/', book.bookId]">Delete</a> -->
+        </td>
+      </tr>
+    </tbody>
+  </table>

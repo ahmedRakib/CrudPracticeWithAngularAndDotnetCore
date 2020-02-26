@@ -1,0 +1,14 @@
+E:\Practise\Angular Practice\including bootstrap\CrudAppBackend\EmployeeCrud\bin\Debug\netcoreapp2.2\EmployeeCrud.deps.json
+E:\Practise\Angular Practice\including bootstrap\CrudAppBackend\EmployeeCrud\bin\Debug\netcoreapp2.2\EmployeeCrud.runtimeconfig.json
+E:\Practise\Angular Practice\including bootstrap\CrudAppBackend\EmployeeCrud\bin\Debug\netcoreapp2.2\EmployeeCrud.runtimeconfig.dev.json
+E:\Practise\Angular Practice\including bootstrap\CrudAppBackend\EmployeeCrud\bin\Debug\netcoreapp2.2\EmployeeCrud.dll
+E:\Practise\Angular Practice\including bootstrap\CrudAppBackend\EmployeeCrud\bin\Debug\netcoreapp2.2\EmployeeCrud.pdb
+E:\Practise\Angular Practice\including bootstrap\CrudAppBackend\EmployeeCrud\obj\Debug\netcoreapp2.2\EmployeeCrud.csprojAssemblyReference.cache
+E:\Practise\Angular Practice\including bootstrap\CrudAppBackend\EmployeeCrud\obj\Debug\netcoreapp2.2\EmployeeCrud.csproj.CoreCompileInputs.cache
+E:\Practise\Angular Practice\including bootstrap\CrudAppBackend\EmployeeCrud\obj\Debug\netcoreapp2.2\EmployeeCrud.RazorAssemblyInfo.cache
+E:\Practise\Angular Practice\including bootstrap\CrudAppBackend\EmployeeCrud\obj\Debug\netcoreapp2.2\EmployeeCrud.RazorAssemblyInfo.cs
+E:\Practise\Angular Practice\including bootstrap\CrudAppBackend\EmployeeCrud\obj\Debug\netcoreapp2.2\EmployeeCrud.AssemblyInfoInputs.cache
+E:\Practise\Angular Practice\including bootstrap\CrudAppBackend\EmployeeCrud\obj\Debug\netcoreapp2.2\EmployeeCrud.AssemblyInfo.cs
+E:\Practise\Angular Practice\including bootstrap\CrudAppBackend\EmployeeCrud\obj\Debug\netcoreapp2.2\EmployeeCrud.RazorTargetAssemblyInfo.cache
+E:\Practise\Angular Practice\including bootstrap\CrudAppBackend\EmployeeCrud\obj\Debug\netcoreapp2.2\EmployeeCrud.dll
+E:\Practise\Angular Practice\including bootstrap\CrudAppBackend\EmployeeCrud\obj\Debug\netcoreapp2.2\EmployeeCrud.pdb
